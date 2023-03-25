@@ -1,4 +1,4 @@
-# Syntax Basics: Go Programming Language
+# GoLang Syntax Basics 
 
 This project have some basics syntax used on Go. It is separated per folders, and each folder have pratical examples regarding the Go feat. 
 
